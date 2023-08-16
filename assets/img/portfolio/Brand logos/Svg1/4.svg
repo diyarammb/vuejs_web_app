@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 134 65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fffffd;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-4" y="15" width="134" height="34"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-4" x="35" width="65" height="65"/>
+    </clipPath>
+  </defs>
+  <path class="cls-1" d="M42.62,19.38v-1.58c0-.21-.04-.4-.13-.58-.06-.19-.16-.35-.31-.48-.14-.15-.3-.25-.48-.31-.18-.09-.37-.14-.58-.13l-.4,.05c-.25,.07-.47,.2-.66,.39-.27,.29-.44,.65-.44,1.06v1.58c0,.21,.04,.4,.13,.58,.06,.19,.16,.35,.31,.48,.14,.15,.3,.25,.48,.31,.18,.09,.37,.14,.58,.13l.4-.05c.25-.07,.47-.2,.66-.39,.27-.29,.44-.65,.44-1.06h0Z"/>
+  <g class="cls-3">
+    <g class="cls-2">
+      <image width="750" height="750" transform="translate(35) scale(.09)" xlink:href="../JPEG/Artboard 2.png"/>
+    </g>
+  </g>
+</svg>

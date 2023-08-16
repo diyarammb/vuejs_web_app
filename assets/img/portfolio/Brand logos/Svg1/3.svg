@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 134 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fffffd;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-3" width="134" height="34"/>
+    </clipPath>
+  </defs>
+  <path class="cls-1" d="M42.62,4.37v-1.58c0-.21-.04-.4-.13-.58-.06-.19-.16-.35-.31-.48-.14-.15-.3-.25-.48-.31-.18-.09-.37-.14-.58-.13l-.4,.05c-.25,.07-.47,.2-.66,.39-.27,.29-.44,.65-.44,1.06v1.58c0,.21,.04,.4,.13,.58,.06,.19,.16,.35,.31,.48,.14,.15,.3,.25,.48,.31,.18,.09,.37,.14,.58,.13l.4-.05c.25-.07,.47-.2,.66-.39,.27-.29,.44-.65,.44-1.06h0Z"/>
+  <g class="cls-2">
+    <image width="750" height="750" transform="translate(39 -10) scale(.08)" xlink:href="../JPEG/Artboard 1.png"/>
+  </g>
+</svg>
